@@ -1,0 +1,4 @@
+BindingLibraries/WebRTCBinding.iOS/obj
+SampleApp/RTCBindingApp.Android/obj
+SampleApp/RTCBindingApp.iOS/obj
+SampleApp/RTCBindingApp/obj
